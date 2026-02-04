@@ -1,0 +1,8 @@
+{
+  "name": "AccelBio - Bioprocess Optimization Platform",
+  "description": "An adaptive optimization engine for biology that accelerates bioprocess development timelines using Gemini-powered experiment design and analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
